@@ -1,0 +1,126 @@
+Text:  (Growling) (Loud, deep, deep, deep, deep, deep, deep, (faintly speaking) (gurgling) (GROANING)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (crying) [MUSIC]
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (BREATHES IN DEEPLY) (Mumbling) (GASP) (dramatic music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (eerie music) (faintly speaking) [MUSIC] (faintly speaking) (Loud noise)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (Mumbling) (gurgling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (faintly speaking) (dramatic music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Metal clattering) (crying) (faintly speaking) (crying) (sounds of a dead body)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling) (faintly speaking) (crying) (faintly speaking)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  *Growling) (eerie music) (faintly speaking) (eerie music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Loud, eerie music) (Gerie music) (faintly speaking) (cumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [Loud, eerie music] (faintly speaking)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Gerie music) (Growling) (dramatic music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Loudly speaking)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling) (Mumbling) (c music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (faintly speaking) (crying) (gurgling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Epic music) (Mumbling) (gurgling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling) [MUSIC] (faintly speaking) (eerie music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Eerie music) (Mumbling) (Loud, eerie music) (Mumbling) (eerie music) (Mumbling) (eerie music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (Mumbling) (crashing)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Distorted grunts) (Mumbling) I'll kill you! (Growling) (ghost rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (gurgling) (Mumbling) (faintly speaking) (growling) (thunder rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (faintly speaking) (eerie music) (Mrying) (Mumbling) (growling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling) (faintly speaking) (faintly speaking) (eerie music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (faintly speaking) (Maniacal laughter) (faintly speaking) [MUSIC] (dramatic music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Metal clattering) (faintly speaking) (eerie music) (faintly speaking) (Growling) (Electronic music) [Music] (static)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling) (erowling) (crying) You (faintly speaking) (Growling) (Mumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (ghostly voice)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [Eerie music] (Mumbling) [Music] (Growling) (cumbling) (ghostly growl)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Farting) (crying) (Maniacal laughter) (cumbling) (Growling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [Loud, eerie music] (faintly speaking)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Electronic music) (Metal clattering) (Breathing heavily) (crying) (erowling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [Music] (faintly speaking)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [Music] (faintly speaking) (crying) (faintly speaking) (crying) I'm here.
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  *Maniacal laughter* (Evil laughter) (Loud, eerie music) (Breathing heavily) (Growling) (faintly speaking) (thunder rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (faintly speaking) (BREATHES IN DEEPLY) (thunder rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (phone ringing) [Growling] (Metal clattering) (crying) (eerie music) (thunder rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Mumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  [MUSIC] (faintly speaking) (sounds of a cat) (growling) (thunder rumbling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  Yuck! (Mumbling) (Growling) (Metal clattering) [MUSIC] (growling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Growling) (Mumbling) (gurgling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (eerie music) (Mrying) (faintly speaking) (M music)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
+Text:  (Gurgling) (Mumbling) (soft music) (faintly speaking) (Growling)
+Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
+
