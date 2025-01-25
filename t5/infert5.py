@@ -124,28 +124,7 @@ if __name__ == "__main__":
         
         # Batch classification
         texts = [
-           "I don’t know... I don’t... what happened? It’s dark.",
-    "Help! Why is everything spinning? I can’t move my legs!",
-    "Why are there so many lights? Is this a dream? I feel weird.",
-    "Uhh... um... the floor is moving. Where is everyone?",
-    "No! No! Stop! Get away from me! It’s all burning!",
-    "What’s going on? Who are you? Where’s my mother?",
-    "I can’t... it’s hard to think. My chest... it’s tight.",
-    "It’s so cold. Why is the water everywhere? Is it raining?",
-    "I can’t move. My head... it’s loud. I hear buzzing.",
-    "Everything is red. Why is there so much red? It’s... everywhere.",
-    "I don’t know who I am... Am I dead? Are we all dead?",
-    "Stop asking me questions! I don’t understand!",
-    "It’s all blue. Why is it blue? What are you saying?",
-    "Who turned off the lights? I can’t feel my hands or feet.",
-    "Get me out of here! The walls are closing in!",
-    "I think... no, I can’t remember... where was I?",
-    "What year is it? Why are you wearing that uniform?",
-    "It’s too loud. Make it stop! Make it all stop!",
-    "I’m sinking. The ground... it’s like quicksand!",
-    "They’re watching me! Don’t let them take me!",
-    "Hello, why is everything spinning? I can't move"
-
+         
         ]
         results = classifier.classify_batch(texts)
         print("Batch classification results:")

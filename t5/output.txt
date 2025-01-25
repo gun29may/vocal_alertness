@@ -1,126 +1,395 @@
-Text:  (Growling) (Loud, deep, deep, deep, deep, deep, deep, (faintly speaking) (gurgling) (GROANING)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
 
-Text:  (crying) [MUSIC]
+Selected Sentence: I feel a bit dizzy, but I’ll manage.
+Audio File: audio_files/I_feel_a_bit_dizzy,_but_I’ll_manage..wav
+Transcription:  I feel a bit dizzy, but I'll manage.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I'm just scratched up, don't worry about me.
+Audio File: audio_files/I'm_just_scratched_up,_don't_worry_about_me..wav
+Transcription:  I am just scratched up, don't worry about me.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m not in pain, just need some rest.
+Audio File: audio_files/I’m_not_in_pain,_just_need_some_rest..wav
+Transcription:  I am not in pain, just need some rest.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: No need to hurry for me, I’m fine.
+Audio File: audio_files/No_need_to_hurry_for_me,_I’m_fine..wav
+Transcription:  No need to hurry for me, I am fine.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s only a small headache, nothing serious.
+Audio File: audio_files/It’s_only_a_small_headache,_nothing_serious..wav
+Transcription:  It's only a small headache, nothing serious.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Don’t worry about me, it’s just a bump.
+Audio File: audio_files/Don’t_worry_about_me,_it’s_just_a_bump..wav
+Transcription:  No worry about me, it's just a bump!
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’ll be alright, just a few scratches.
+Audio File: audio_files/I’ll_be_alright,_just_a_few_scratches..wav
+Transcription:  I'll be alright, just a few scratches.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m okay, where’s the rescue team?
+Audio File: audio_files/I’m_okay,_where’s_the_rescue_team?.wav
+Transcription:  I'm okay, where's the rescue team?
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m good, just feeling a bit off.
+Audio File: audio_files/I’m_good,_just_feeling_a_bit_off..wav
+Transcription:  I am good, just feeling a bit off.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just a scratch on my arm, nothing serious.
+Audio File: audio_files/It’s_just_a_scratch_on_my_arm,_nothing_serious..wav
+Transcription:  Just scratch on... Sorry, reset, reset, reset, reset.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I'm just scratched up, don't worry about me.
+Audio File: audio_files/I'm_just_scratched_up,_don't_worry_about_me._1.wav
+Transcription:  I'm just crashed up, don't worry about me.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my shoulder, but I can move.
+Audio File: audio_files/It’s_just_my_shoulder,_but_I_can_move..wav
+Transcription:  It's just my shoulder, but I can move!
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m okay, where are the paramedics?
+Audio File: audio_files/I’m_okay,_where_are_the_paramedics?.wav
+Transcription:  I am okay, where are the paramedics?
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’ll be alright, just a few scratches.
+Audio File: audio_files/I’ll_be_alright,_just_a_few_scratches._1.wav
+Transcription:  I'll be alright, just a few scratches.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m okay, I think I just twisted my ankle.
+Audio File: audio_files/I’m_okay,_I_think_I_just_twisted_my_ankle..wav
+Transcription:  I think I just twisted my ankle.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m just a little sore, no big deal.
+Audio File: audio_files/I’m_just_a_little_sore,_no_big_deal..wav
+Transcription:  I am just a little sore, no big deal!
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I feel a bit sore, but I’m okay.
+Audio File: audio_files/I_feel_a_bit_sore,_but_I’m_okay..wav
+Transcription:  I feel a bit sore, but I'm okay.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing to worry about, just a bump.
+Audio File: audio_files/Nothing_to_worry_about,_just_a_bump..wav
+Transcription:  Nothing to worry about, just a bum.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m just tired, but I’m alright.
+Audio File: audio_files/I’m_just_tired,_but_I’m_alright..wav
+Transcription:  I am just tired, but I am alright.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: No major injuries, just a small cut.
+Audio File: audio_files/No_major_injuries,_just_a_small_cut..wav
+Transcription:  No major injuries, just a small cut.
+Sentiment: normal or abnormal with reason : normal or abnormal with reason : normal or abnormal with reason : normal or abnormal with reason : normal or abnormal
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Just a scratch, I’m doing okay.
+Audio File: audio_files/Just_a_scratch,_I’m_doing_okay..wav
+Transcription:  Just a scratch, I'm doing bokeh.
+Sentiment: normal, abnormal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m good, just feeling a bit off.
+Audio File: audio_files/I’m_good,_just_feeling_a_bit_off._1.wav
+Transcription:  I am good! Just feeling a bit off!
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my shoulder, but I can move.
+Audio File: audio_files/It’s_just_my_shoulder,_but_I_can_move._1.wav
+Transcription:  It's just my shoulder but I can't move.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m okay, no serious injuries.
+Audio File: audio_files/I’m_okay,_no_serious_injuries..wav
+Transcription:  I am okay, no serious injuries.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I feel a bit sore, but I’m okay.
+Audio File: audio_files/I_feel_a_bit_sore,_but_I’m_okay._1.wav
+Transcription:  I feel a bit sore, but I'm okay.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Just a scratch, I’m doing okay.
+Audio File: audio_files/Just_a_scratch,_I’m_doing_okay._1.wav
+Transcription:  Just a scratch I am doing okay.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I feel a bit dizzy, but I’ll manage.
+Audio File: audio_files/I_feel_a_bit_dizzy,_but_I’ll_manage._1.wav
+Transcription:  I feel a bit dizzy, but I'll manage.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’ll be fine, just a minor ache in my leg.
+Audio File: audio_files/I’ll_be_fine,_just_a_minor_ache_in_my_leg..wav
+Transcription:  I'll be fine, just a minor ache in my leg.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing to worry about, just a bump.
+Audio File: audio_files/Nothing_to_worry_about,_just_a_bump._1.wav
+Transcription:  Nothing to worry about, just a bump.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Don’t worry, I’m okay, just shaken up.
+Audio File: audio_files/Don’t_worry,_I’m_okay,_just_shaken_up..wav
+Transcription:  Don't worry, I'm okay, just chicken up.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing major, just a small bruise.
+Audio File: audio_files/Nothing_major,_just_a_small_bruise..wav
+Transcription:  Nothing major, just a small group.
+Sentiment: normal, abnormal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing major, just a small bruise.
+Audio File: audio_files/Nothing_major,_just_a_small_bruise._1.wav
+Transcription:  Nothing major, just a small bruise.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Just a little dizziness, I’ll be okay.
+Audio File: audio_files/Just_a_little_dizziness,_I’ll_be_okay..wav
+Transcription:  Just a little dizziness. I will be okay.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just a scratch on my arm, nothing serious.
+Audio File: audio_files/It’s_just_a_scratch_on_my_arm,_nothing_serious._1.wav
+Transcription:  It's just a scratch on my arm, nothing serious.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m alright, just need some air.
+Audio File: audio_files/I’m_alright,_just_need_some_air..wav
+Transcription:  I am alright, just need some of you.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m fine, just some cuts and scrapes.
+Audio File: audio_files/I’m_fine,_just_some_cuts_and_scrapes..wav
+Transcription:  I am fine, just some cuts and scrapes.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my arm, it’s not bad.
+Audio File: audio_files/It’s_just_my_arm,_it’s_not_bad..wav
+Transcription:  It's just my arm, it's not back.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’ll be fine, just need to sit down.
+Audio File: audio_files/I’ll_be_fine,_just_need_to_sit_down..wav
+Transcription:  I will be fine, just need to sit down.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m just a little sore, no big deal.
+Audio File: audio_files/I’m_just_a_little_sore,_no_big_deal._1.wav
+Transcription:  I am just saying it's a sure, no big deal!
+Sentiment: normal, abnormal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s only my leg, but I can still walk.
+Audio File: audio_files/It’s_only_my_leg,_but_I_can_still_walk..wav
+Transcription:  It's only me, my leg, but I can still walk.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I feel a bit dizzy, but I’ll manage.
+Audio File: audio_files/I_feel_a_bit_dizzy,_but_I’ll_manage._2.wav
+Transcription:  I feel a bit dizzy, but I will manage.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my head, a little dizzy but fine.
+Audio File: audio_files/It’s_just_my_head,_a_little_dizzy_but_fine..wav
+Transcription:  It's just my head, a little dizzy, but fine.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my shoulder, but I can move.
+Audio File: audio_files/It’s_just_my_shoulder,_but_I_can_move._2.wav
+Transcription:  It's just my shoulder, but I can't move.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing to worry about, just a bump.
+Audio File: audio_files/Nothing_to_worry_about,_just_a_bump._2.wav
+Transcription:  Why is it so tight?
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (BREATHES IN DEEPLY) (Mumbling) (GASP) (dramatic music)
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m okay, I think I just twisted my ankle.
+Audio File: audio_files/I’m_okay,_I_think_I_just_twisted_my_ankle._1.wav
+Transcription:  I think I just twisted my ankle.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just a minor bruise, I’m fine.
+Audio File: audio_files/It’s_just_a_minor_bruise,_I’m_fine..wav
+Transcription:  It's just a minor loose, I'm fine.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just a small cut, I’ll be alright.
+Audio File: audio_files/It’s_just_a_small_cut,_I’ll_be_alright..wav
+Transcription:  It's just a small cut, I will be alright.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m not in pain, just need some rest.
+Audio File: audio_files/I’m_not_in_pain,_just_need_some_rest._1.wav
+Transcription:  I am not in pain, just need some rest.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Nothing major, just a small bruise.
+Audio File: audio_files/Nothing_major,_just_a_small_bruise._2.wav
+Transcription:  Nothing major, just a small bruise.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just my arm, it’s not bad.
+Audio File: audio_files/It’s_just_my_arm,_it’s_not_bad._1.wav
+Transcription:  It's just my arm, it's not bad.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Just a scratch, I’m doing okay.
+Audio File: audio_files/Just_a_scratch,_I’m_doing_okay._2.wav
+Transcription:  Just a scratch, I'm doing OK.
+Sentiment: normal or abnormal with reason : normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s only a small headache, nothing serious.
+Audio File: audio_files/It’s_only_a_small_headache,_nothing_serious._1.wav
+Transcription:  It's only a small headache, nothing serious.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: It’s just a headache, I’ll be fine.
+Audio File: audio_files/It’s_just_a_headache,_I’ll_be_fine..wav
+Transcription:  It's just a headache, I'll be fine.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Don’t worry about me, it’s just a bump.
+Audio File: audio_files/Don’t_worry_about_me,_it’s_just_a_bump._1.wav
+Transcription:  Don't worry about me, it's just a bump.
+Sentiment: normal, abnormal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: No major injuries, just a small cut.
+Audio File: audio_files/No_major_injuries,_just_a_small_cut._1.wav
+Transcription:  No major injuries, just a small crack.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m alright, just a little shaken up.
+Audio File: audio_files/I’m_alright,_just_a_little_shaken_up..wav
+Transcription:  I'm alright, just a little shaken up.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m a little bruised, but nothing serious.
+Audio File: audio_files/I’m_a_little_bruised,_but_nothing_serious..wav
+Transcription:  I'm a little bruised, but nothing serious.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: Just a little headache, I’m okay.
+Audio File: audio_files/Just_a_little_headache,_I’m_okay..wav
+Transcription:  Just a little headache, I'm okay.
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I’m just tired, but I’m alright.
+Audio File: audio_files/I’m_just_tired,_but_I’m_alright._1.wav
+Transcription:  I am...
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (eerie music) (faintly speaking) [MUSIC] (faintly speaking) (Loud noise)
+actual sentiment :abnormal
+----------------------------------------
+Selected Sentence: It’s so cold here, why is it snowing?
+Audio File: audio_files/It’s_so_cold_here,_why_is_it_snowing?.wav
+Transcription:  It's so cold here, why is it snowing?
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :abnormal
+----------------------------------------
+Selected Sentence: They took my hat, I need it back!
+Audio File: audio_files/They_took_my_hat,_I_need_it_back!.wav
+Transcription:  They took my head! I need it back!
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (Mumbling) (gurgling)
+actual sentiment :abnormal
+----------------------------------------
+Selected Sentence: It’s so cold here, why is it snowing?
+Audio File: audio_files/It’s_so_cold_here,_why_is_it_snowing?_1.wav
+Transcription:  You are a party!
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (faintly speaking) (dramatic music)
+actual sentiment :abnormal
+----------------------------------------
+Selected Sentence: Is it Tuesday? I can’t remember if it’s Tuesday.
+Audio File: audio_files/Is_it_Tuesday?_I_can’t_remember_if_it’s_Tuesday..wav
+Transcription:  Is it Tuesday? I can't remember if it's Tuesday!
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :abnormal
+----------------------------------------
+Selected Sentence: I’m late for work! I need to get to the office!
+Audio File: audio_files/I’m_late_for_work!_I_need_to_get_to_the_office!.wav
+Transcription:  I am late for work, I have to get for office.
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Metal clattering) (crying) (faintly speaking) (crying) (sounds of a dead body)
+actual sentiment :normal
+----------------------------------------
+Selected Sentence: I can hear the birds singing, can you hear them?
+Audio File: audio_files/I_can_hear_the_birds_singing,_can_you_hear_them?.wav
+Transcription:  I can't hear the birds singing! Can you hear them?
+Sentiment: normal,Responsive to prompts with coherent and relevant speech. Oriented to time, person,and place
+actual sentiment :abnormal
+----------------------------------------
+Transcription:  [Indistinct chatter]
 Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling) (faintly speaking) (crying) (faintly speaking)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  *Growling) (eerie music) (faintly speaking) (eerie music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Loud, eerie music) (Gerie music) (faintly speaking) (cumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [Loud, eerie music] (faintly speaking)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Gerie music) (Growling) (dramatic music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Loudly speaking)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling) (Mumbling) (c music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (faintly speaking) (crying) (gurgling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Epic music) (Mumbling) (gurgling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling) [MUSIC] (faintly speaking) (eerie music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Eerie music) (Mumbling) (Loud, eerie music) (Mumbling) (eerie music) (Mumbling) (eerie music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (Mumbling) (crashing)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Distorted grunts) (Mumbling) I'll kill you! (Growling) (ghost rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (gurgling) (Mumbling) (faintly speaking) (growling) (thunder rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (faintly speaking) (eerie music) (Mrying) (Mumbling) (growling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling) (faintly speaking) (faintly speaking) (eerie music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (faintly speaking) (Maniacal laughter) (faintly speaking) [MUSIC] (dramatic music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Metal clattering) (faintly speaking) (eerie music) (faintly speaking) (Growling) (Electronic music) [Music] (static)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling) (erowling) (crying) You (faintly speaking) (Growling) (Mumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (ghostly voice)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [Eerie music] (Mumbling) [Music] (Growling) (cumbling) (ghostly growl)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Farting) (crying) (Maniacal laughter) (cumbling) (Growling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [Loud, eerie music] (faintly speaking)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Electronic music) (Metal clattering) (Breathing heavily) (crying) (erowling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [Music] (faintly speaking)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [Music] (faintly speaking) (crying) (faintly speaking) (crying) I'm here.
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  *Maniacal laughter* (Evil laughter) (Loud, eerie music) (Breathing heavily) (Growling) (faintly speaking) (thunder rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (faintly speaking) (BREATHES IN DEEPLY) (thunder rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (phone ringing) [Growling] (Metal clattering) (crying) (eerie music) (thunder rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Mumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  [MUSIC] (faintly speaking) (sounds of a cat) (growling) (thunder rumbling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  Yuck! (Mumbling) (Growling) (Metal clattering) [MUSIC] (growling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Growling) (Mumbling) (gurgling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (eerie music) (Mrying) (faintly speaking) (M music)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
-Text:  (Gurgling) (Mumbling) (soft music) (faintly speaking) (Growling)
-Sentiment: abnormal,Responsive to prompts with confused or irrelevant speech and Unresponsive to speech prompts with pain- or distress-related speech or
-
+actual sentiment :abnormal
+----------------------------------------
