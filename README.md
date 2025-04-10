@@ -46,8 +46,8 @@ The core idea is that alert individuals tend to express more positive or active 
 1.  **Clone the Repository:**
 ```
 bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/gun29may/vocal_alertness.git
+    cd vocal_alertness
     
 ```
 2.  **Create and Activate Conda Environments:**
